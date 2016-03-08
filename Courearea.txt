@@ -1,0 +1,44 @@
+section I       ToDoList App 後端API server
+
+開發工具atom(https://atom.io/)
+安裝後
+Mac: 點選Atom->Preference->Install安裝以下套件
+Windows:自己摸索一下，上課跟大家分享
+
+atom-beauty
+auto-indent
+javascript-snippets
+linter
+jshint
+linter-jshint
+
+1. NodeJS 基礎與套件
+  Hello World 與NodeJS CLI
+  NodeJS核心模組 process, console, util, event, fs, http
+  npm 套件管理系統 global/ local install
+
+2. NodeJS + Express
+  安裝express-generator
+  架設伺服器
+  What did we do? express middleware and routes.
+
+3. NodeJS + Mongodb
+  安裝 mongodb and mongoose
+  將伺服器與db連線
+  mongodb Create-Read-Update-Delete
+
+4. Express + Mongodb + NodeJS
+  ToDoList api server
+  自動化測試與文件管理
+  發佈上雲端
+
+=====================================================
+Section II      Android ToDoList app
+
+1. android studio and Java cheatsheet for android
+
+
+=====================================================
+Section III     iOS ToDoList app
+
+1. Xcode playground and Swift syntax
