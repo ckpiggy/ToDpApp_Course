@@ -1,0 +1,2 @@
+在這個資料夾，用終端機模式輸入'npm init folder_package'，
+用互動的方式創造'folder_package'模組的骨架!

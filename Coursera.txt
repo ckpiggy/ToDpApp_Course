@@ -13,8 +13,8 @@ jshint
 linter-jshint
 
 1. NodeJS 基礎與套件
-  Hello World 與NodeJS CLI
-  NodeJS核心模組 process, console, util, event, fs, http
+  Hello World 與 NodeJS CLI
+  NodeJS核心模組 util, event, process, console, fs, http
   npm 套件管理系統 global/ local install
 
 2. NodeJS + Express
