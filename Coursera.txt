@@ -32,6 +32,13 @@ linter-jshint
   自動化測試與文件管理
   發佈上雲端
 
+參考資料：
+1. Getting MEAN with Mongodb Express AngularJS and NodeJS:
+  https://drive.google.com/file/d/0B4tASZlnEDBQVWNNVVpGS0hWN1k/view?usp=sharing
+
+2. AngularJS Tutorial for Beginners With NodeJS ExpressJS and MongoDB:
+  http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/#angularjs-data-binding
+
 =====================================================
 Section II      Android ToDoList app
 
