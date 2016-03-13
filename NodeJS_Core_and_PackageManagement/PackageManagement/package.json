@@ -1,0 +1,16 @@
+{
+  "name": "folder_package",
+  "version": "0.0.0",
+  "description": "this is a demo mudule.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "keywords": [
+    "demo",
+    "folder",
+    "module"
+  ],
+  "author": "Tyler",
+  "license": "MIT"
+}

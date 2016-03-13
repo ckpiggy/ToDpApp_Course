@@ -11,6 +11,6 @@ function Hello(){
   };
 }
 
-exports.Hello = Hello;
+// exports.Hello = Hello;
 // 可以用module.exports更改這個module的根物件！
-// module.exports = Hello;
+module.exports = Hello;

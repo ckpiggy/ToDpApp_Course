@@ -1,5 +1,5 @@
-var Hello = require('./name').Hello;
-//var Hello = require('./name');
+// var Hello = require('./name').Hello;
+var Hello = require('./name');
 
 var hello1 = new Hello();
 hello1.setName('John');

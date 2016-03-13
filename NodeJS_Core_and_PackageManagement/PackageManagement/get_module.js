@@ -9,4 +9,4 @@ hello2.setName('Mary');
 hello2.sayHello();
 
 //猜猜看下面一行解開註解後會發生什麼事情？
-//hello1.sayHello();
+hello1.sayHello();
